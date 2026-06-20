@@ -1,0 +1,19 @@
+{
+  "fabric:load_condition": {
+    "condition": "fabric:and",
+    "values": [
+      {
+        "condition": "betterthanwools:vanilla_wool_recipe_disabled"
+      },
+      {
+        "condition": "betterthanwools:regressive_recipes_enabled"
+      }
+    ]
+  },
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:green_wool",
+  "result": {
+    "count": 4,
+    "id": "betterthanwools:green_raw_wool"
+  }
+}

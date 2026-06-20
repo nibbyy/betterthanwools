@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:purple_wool_knit",
+    "betterthanwools:purple_wool_knit",
+    "betterthanwools:purple_wool_knit"
+  ],
+  "result": {
+    "id": "betterthanwools:wool_leggings",
+    "components": {
+      "minecraft:dyed_color": 8991416
+    }
+  }
+}

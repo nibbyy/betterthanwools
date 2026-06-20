@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": {
+    "condition": "betterthanwools:vanilla_wool_recipe_disabled"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#L#",
+    " # "
+  ],
+  "key": {
+    "#": "betterthanwools:raw_wool",
+    "L": "#minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:white_wool"
+  }
+}

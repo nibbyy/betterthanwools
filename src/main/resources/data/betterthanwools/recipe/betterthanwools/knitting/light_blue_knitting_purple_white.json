@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:knitting_needles",
+    "betterthanwools:purple_raw_wool",
+    "betterthanwools:raw_wool"
+  ],
+  "result": {
+    "id": "betterthanwools:light_blue_knitting"
+  }
+}

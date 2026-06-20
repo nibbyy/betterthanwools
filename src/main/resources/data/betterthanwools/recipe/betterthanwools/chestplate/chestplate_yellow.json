@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:yellow_wool_knit",
+    "betterthanwools:yellow_wool_knit",
+    "betterthanwools:yellow_wool_knit",
+    "betterthanwools:yellow_wool_knit"
+  ],
+  "result": {
+    "id": "betterthanwools:wool_chestplate",
+    "components": {
+      "minecraft:dyed_color": 16701501
+    }
+  }
+}

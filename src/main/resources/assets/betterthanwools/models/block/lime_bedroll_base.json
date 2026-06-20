@@ -1,0 +1,6 @@
+{
+  "parent": "betterthanwools:block/bedroll_base_template",
+  "textures": {
+    "wool": "minecraft:block/lime_wool"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_dye",
+  "category": "equipment",
+  "target": "betterthanwools:wool_chestplate",
+  "dye": "#minecraft:dyes",
+  "result": {
+    "id": "betterthanwools:wool_chestplate"
+  }
+}

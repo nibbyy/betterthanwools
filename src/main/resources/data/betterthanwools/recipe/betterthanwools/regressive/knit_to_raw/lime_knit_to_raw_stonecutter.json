@@ -1,0 +1,11 @@
+{
+  "fabric:load_conditions": {
+    "condition": "betterthanwools:regressive_recipes_enabled"
+  },
+  "type": "minecraft:stonecutting",
+  "ingredient": "betterthanwools:lime_wool_knit",
+  "result": {
+    "count": 2,
+    "id": "betterthanwools:lime_raw_wool"
+  }
+}

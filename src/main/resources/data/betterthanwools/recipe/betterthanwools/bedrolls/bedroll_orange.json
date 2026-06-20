@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:orange_wool_knit",
+    "betterthanwools:orange_wool_knit",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "betterthanwools:orange_bedroll"
+  }
+}

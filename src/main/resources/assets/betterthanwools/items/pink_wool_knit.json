@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "betterthanwools:item/wool_knit",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 15961002
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "fabric:load_conditions": {
+    "condition": "betterthanwools:regressive_recipes_enabled"
+  },
+  "type": "slowcraft:damage_tool_shapeless",
+  "input": "betterthanwools:wool_knit",
+  "tool": "minecraft:shears",
+  "tool_damage": 1,
+  "result": {
+    "id": "betterthanwools:raw_wool",
+    "count": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:red_wool_knit",
+    "betterthanwools:red_wool_knit",
+    "betterthanwools:red_wool_knit",
+    "betterthanwools:red_wool_knit"
+  ],
+  "result": {
+    "id": "betterthanwools:wool_chestplate",
+    "components": {
+      "minecraft:dyed_color": 11546150
+    }
+  }
+}

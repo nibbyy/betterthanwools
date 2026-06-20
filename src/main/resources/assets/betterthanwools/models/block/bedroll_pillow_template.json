@@ -1,0 +1,19 @@
+{
+  "textures": {
+    "particle": "#wool"
+  },
+  "elements": [
+    {
+      "from": [2, 2, 8],
+      "to": [14, 3, 14],
+      "faces": {
+        "down": { "texture": "#wool" },
+        "up": { "texture": "#wool" },
+        "north": { "texture": "#wool" },
+        "south": { "texture": "#wool" },
+        "west": { "texture": "#wool" },
+        "east": { "texture": "#wool" }
+      }
+    }
+  ]
+}

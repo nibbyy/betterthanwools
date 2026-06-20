@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:wool_knit",
+    "betterthanwools:wool_knit"
+  ],
+  "result": {
+    "id": "betterthanwools:wool_boots",
+    "components": {
+      "minecraft:dyed_color": 16383998
+    }
+  }
+}

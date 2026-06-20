@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "betterthanwools:raw_wool",
+    "betterthanwools:orange_raw_wool",
+    "betterthanwools:magenta_raw_wool",
+    "betterthanwools:light_blue_raw_wool",
+    "betterthanwools:yellow_raw_wool",
+    "betterthanwools:lime_raw_wool",
+    "betterthanwools:pink_raw_wool",
+    "betterthanwools:gray_raw_wool",
+    "betterthanwools:light_gray_raw_wool",
+    "betterthanwools:cyan_raw_wool",
+    "betterthanwools:purple_raw_wool",
+    "betterthanwools:blue_raw_wool",
+    "betterthanwools:brown_raw_wool",
+    "betterthanwools:green_raw_wool",
+    "betterthanwools:red_raw_wool",
+    "betterthanwools:black_raw_wool"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#betterthanwools:raw_wools",
+    "minecraft:light_gray_dye"
+  ],
+  "result": {
+    "id": "betterthanwools:light_gray_raw_wool"
+  }
+}

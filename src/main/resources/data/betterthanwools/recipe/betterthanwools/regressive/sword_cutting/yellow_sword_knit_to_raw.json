@@ -1,0 +1,12 @@
+{
+  "fabric:load_conditions": {
+    "condition": "betterthanwools:regressive_recipes_enabled"
+  },
+  "type": "slowcraft:damage_tool_shapeless",
+  "input": "betterthanwools:yellow_wool_knit",
+  "tool": "#minecraft:swords",
+  "tool_damage": 1,
+  "result": {
+    "id": "betterthanwools:yellow_raw_wool"
+  }
+}

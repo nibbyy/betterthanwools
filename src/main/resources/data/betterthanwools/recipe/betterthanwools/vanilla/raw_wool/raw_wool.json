@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": {
+    "condition": "fabric:not",
+    "value": {
+      "condition": "betterthanwools:vanilla_wool_recipe_disabled"
+    }
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "betterthanwools:raw_wool"
+  }
+}

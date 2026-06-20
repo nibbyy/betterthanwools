@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:cyan_wool_knit",
+    "betterthanwools:cyan_wool_knit",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "betterthanwools:cyan_bedroll"
+  }
+}

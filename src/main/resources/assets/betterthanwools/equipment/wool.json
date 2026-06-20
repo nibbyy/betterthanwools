@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "betterthanwools:wool",
+        "dyeable": {
+          "color_when_undyed": 16383998
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "betterthanwools:wool",
+        "dyeable": {
+          "color_when_undyed": 16383998
+        }
+      }
+    ]
+  }
+}

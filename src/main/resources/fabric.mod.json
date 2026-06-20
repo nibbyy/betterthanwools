@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "betterthanwools",
+	"version": "${version}",
+	"name": "BetterThanWools",
+	"description": "BetterThanWools adds the wool processing line and Knitting system from BetterThanWolves to modern MC.",
+	"authors": [
+		"nibbyy"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/betterthanwools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"nibbyy.betterthanwools.BetterThanWools"
+		],
+		"client": [
+			"nibbyy.betterthanwools.client.BetterThanWoolsClient"
+		],
+		"fabric-datagen": [
+			"nibbyy.betterthanwools.client.BetterThanWoolsDataGenerator"
+		],
+		"modmenu": [
+			"nibbyy.betterthanwools.client.config.WoolsModMenu"
+		]
+	},
+	"mixins": [
+		"betterthanwools.mixins.json",
+		{
+			"config": "betterthanwools.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"slowcraft": "~0.5"
+	},
+	"suggests": {
+		"modmenu": ">=${modmenu_version}",
+		"cloth-config": ">=${clothconfig_version}"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "betterthanwools:magenta_wool_knit"
+  ],
+  "result": {
+    "id": "betterthanwools:wool_helmet",
+    "components": {
+      "minecraft:dyed_color": 13061821
+    }
+  }
+}
