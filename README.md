@@ -1,3 +1,5 @@
+# BetterThanWools
+
 **BetterThanWools brings the wool processing line and Knitting system from [Better Than Wolves](https://wiki.btwce.com/view/Main_Page) to modern Minecraft.**
 
 🛠️ **Mechanics:** Sheep now drop raw wool instead of blocks. Raw wool must be processed by hand with Knitting Needles into Wool Knits, which are used to make early-game armor, bedrolls, and other colorful wool products.
